@@ -1,4 +1,36 @@
 ﻿<Properties StartupConfiguration="{6A78371F-AC9B-4F49-B82D-6028FA74DBD5}|Default">
-  <MonoDevelop.Ide.ItemProperties.EF__Migration FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EF_Migration/Data/Configuration/InstructorConfiguration.cs">
+    <Files>
+      <File FileName="EF_Migration/Program.cs" Line="1" Column="1" />
+      <File FileName="EF_Migration/appsettings.json" Line="6" Column="2" />
+      <File FileName="EF_Migration/Data/AppDbContext.cs" Line="17" Column="84" />
+      <File FileName="EF_Migration/Entities/Course.cs" Line="8" Column="7" />
+      <File FileName="EF_Migration/Entities/Instructor.cs" Line="10" Column="28" />
+      <File FileName="EF_Migration/Data/Configtation/CourseConfiguration.cs" Line="9" Column="37" />
+      <File FileName="EF_Migration/Data/Configuration/InstructotConfiguration.cs" Line="6" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EF_Migration" expanded="True">
+            <Node name="EF_Migration">
+              <Node name="Data" expanded="True">
+                <Node name="Configuration">
+                  <Node name="InstructorConfiguration.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Entities" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.EF__Migration FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
 </Properties>

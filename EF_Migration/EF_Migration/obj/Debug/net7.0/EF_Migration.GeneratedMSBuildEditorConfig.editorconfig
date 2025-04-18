@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EF_Migration
 build_property.ProjectDir = /Users/mostafaalashry397gmail.com/Documents/C#/EF_Migration/EF_Migration/EF_Migration/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
